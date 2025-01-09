@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Principles and Practice for Data Analysis in a Supporting and Consulting Environment"
+  author: "QSP Team"
+  date: "11/13/2024"
+  chapters:
+    - index.qmd
+    - chapter1.1.qmd
+    - chapter1.2.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
