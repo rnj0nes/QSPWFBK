@@ -10,10 +10,10 @@ Part 1 - Analysis Reports
 
 For projects without sensitive data
 
-  ./WORK/PROJECT_NAME/DOCUMENTATION
-  ./WORK/PROJECT_NAME/POSTED/DATA
-  ./WORK/PROJECT_NAME/POSTED/REPORTS
-  ./WORK/PROJECT_NAME/POSTED/
+  ./WORK/PROJECT_NAME/DOCUMENTATION/<br>
+  ./WORK/PROJECT_NAME/POSTED/DATA/<br>
+  ./WORK/PROJECT_NAME/POSTED/REPORTS/<br>
+  ./WORK/PROJECT_NAME/POSTED/<br>
   
 
  2.2 Organizing analysis with organized code
